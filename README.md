@@ -1,16 +1,16 @@
-## Hi there 👋
+## Greetings, traveler.
 
-<!--
-**Nicolas110/Nicolas110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Konosuba Anime GIF - Konosuba Anime - Discover   Share GIFs](https://github.com/user-attachments/assets/01645446-533b-4294-a0c6-bcf5d67399d5)
 
-Here are some ideas to get you started:
+I am Nicolas.
+I work with code and enjoy building things through experimentation and iteration.
+I focus on creating, learning and improving within what is accessible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+Currently exploring machine learning concepts and backend logic while building a personal AI assistent from scratch.
