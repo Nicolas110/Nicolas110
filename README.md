@@ -1,6 +1,6 @@
 <div align="center">
 
-## Greetings, traveler.
+## Greetings traveler.
 
 <img src="https://github.com/user-attachments/assets/01645446-533b-4294-a0c6-bcf5d67399d5" width="200"/>
 
